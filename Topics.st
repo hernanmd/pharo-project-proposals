@@ -413,5 +413,15 @@ These tools and abilities are basic when working with programming languages, ref
        level: 'Intermediate';
        yourself.
 
+PharoTopic new
+       title: 'PCA Methods';
+       contact: 'oleksandr.zaitsev@inria.fr, hernan.morales@gmail.com';
+       supervisors: 'Oleksandr Zaitsev, Hernán Morales';
+       keywords: 'pca, sva, dimensionality reduction';
+       context: 'Write an object-model in Pharo to provide Principal Component Analysis (PCA) variants such as Sparse PCA, Randomized PCA, Incremental PCA and Kernel PCA (Centering).
+The PolyMath library already provides an implementation of PCA which could be used as basis for extending with.';
+       level: 'Intermediate';
+       yourself.
+
 
 
